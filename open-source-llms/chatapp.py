@@ -79,7 +79,7 @@ def rag(query):
     answer = llm(prompt)
     return answer
 
-
+# RAG Implementation
 def main():
     st.title("RAG Function Invocation")
 
