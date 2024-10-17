@@ -1,5 +1,7 @@
 
-# Learning Large Language Models (LLMs)
+# Learning Large Language Models (LLMs):
+
+This is learning path for LLMs and RAG systems. Course from Datatalks (https://github.com/DataTalksClub)
 
 ## 1. Introduction
 Large Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP) by enabling machines to understand and generate human-like text. These models, such as GPT-3 and BERT, are trained on enormous amounts of data and are capable of performing a wide variety of tasks, from language translation to text summarization, question-answering, and more. This repository is designed to provide a structured approach to learning about LLMs, with a focus on key concepts, practical tools, and best practices.
@@ -46,8 +48,7 @@ When working with LLMs, following best practices can help avoid common pitfalls 
 
 By following these guidelines, you can develop robust, scalable, and ethical applications that leverage the full power of Large Language Models.
 
-## Contributing
-Feel free to contribute to this repository by submitting issues, suggesting new topics, or providing additional insights!
+## Credits
+Credits to DataTalks(https://github.com/DataTalksClub) who are offering this course for free @ https://github.com/DataTalksClub/llm-zoomcamp
 
-## License
-This project is licensed under the MIT License.
+
